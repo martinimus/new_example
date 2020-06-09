@@ -1,0 +1,12 @@
+---
+title: "02_data_exploration"
+author: "Martin"
+date: "09/06/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data exploration
