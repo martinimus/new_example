@@ -12,3 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Import the data
 
 First we are going to import the `gapminder` data set.
+
+Adding some changes to the import process.
+
+Added even more changes, as per request.
